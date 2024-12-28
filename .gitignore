@@ -1,72 +1,8 @@
-# Build directories
-build/
-cmake-build-debug/
-CMakeFiles/
-[Dd]ebug/
-[Rr]elease/
+#sample data
+combined_dataset.txt
 
-# CMake generated files
-CMakeCache.txt
-cmake_install.cmake
-*.cmake
-Makefile
-CMakeScripts/
-compile_commands.json
+#executable
+recommender
 
-# IDE specific (CLion, VSCode, etc)
-.idea/
-.vscode/
-*.swp
-*.swo
-.vs/
-*.user
-*.suo
-
-# Compiled Object files
-*.slo
-*.lo
-*.o
-*.obj
-
-# Precompiled Headers
-*.gch
-*.pch
-
-# Compiled Dynamic libraries
-*.so
-*.dylib
-*.dll
-
-# Compiled Static libraries
-*.lai
-*.la
-*.a
-*.lib
-
-# Executables
-*.exe
-*.out
-*.app
-termp4
-
-# macOS specific
-.DS_Store
-.AppleDouble
-.LSOverride
-Icon?
-._*
-
-# Project specific data files (uncomment if you don't want to track these)
-# *.csv
-# submission.csv
-# test.csv
-# train.csv
-# sample_submission.csv
-
-# Temporary files
-*.log
-*.tmp
-*.temp
-
-# IDE specific backup files
-*~
+#
+.vscode
